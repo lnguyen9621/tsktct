@@ -1,0 +1,504 @@
+{
+ "items": [
+  {
+   "id": {
+    "videoId": "N1Y8hUI9LCA"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-06T20:01:48.000Z",
+    "title": "Giải Ảo Thời Sự 190606 - Phần 2: Đức tính đưa chiến hạm vào Eo biển Đài Loan?",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "XsthHz5ZxjY"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-06T19:16:59.000Z",
+    "title": "Giải Ảo Thời Sự 190606 - Phần 1:  Dịch tả lợn Phi Châu tàn phá Châu Á",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "aW8CgE1n-S0"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-06T05:04:02.000Z",
+    "title": "Giải Ảo Thời Sự 190605 - Phần 2:  Trận chiến Hoa Vi và Trật Tự Mới",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "tWlc7AAj4y0"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-06T01:30:57.000Z",
+    "title": "Giải Ảo Thời Sự 190605 - Phần 1: Biến cố đổ bộ D-Day 75 năm sau",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "hsVKN91jefY"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-04T20:38:56.000Z",
+    "title": "Giải Ảo Thời Sự 190604 - Phần 2: Nỗi niềm của Nhật Bản",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "3hwfmbBc-j0"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-04T20:09:18.000Z",
+    "title": "Giải Ảo Thời Sự 190604 - Phần 1:  Trận đổ bộ tại Normandie đúng 75 năm trước",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "4y6LyTOIDxQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-03T23:29:08.000Z",
+    "title": "Giải Ảo Thời Sự 190603 - Phần 2:  Donald Trump và Thương chiến lung tung!",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "eWZ9WElq2hE"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-03T18:12:40.000Z",
+    "title": "Giải Ảo Thời Sự 190603 - Phần 1:  Giải phẫu một cuộc khủng hoảng của đảng - vụ Thiên An Môn 1989",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "iQP4hdqfOio"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-30T17:30:28.000Z",
+    "title": "Giải Ảo Thời Sự 190530 - Phần 2: Hỏa tiễn Bắc Hàn như một bảo hiểm",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "XOhgFCYl4bY"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-30T16:37:40.000Z",
+    "title": "Giải Ảo Thời Sự 190530 - Phần 1: Báo chí Mỹ mắc bẫy Bắc Kinh ra sao?",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "ZwZ9bgFA040"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-29T19:32:22.000Z",
+    "title": "Giải Ảo Thời Sự 190529 - Phần 2: Bắc Kinh chỉ đạo việc tường thuật và diễn giải trận thương chiến",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "IzAv5p2VUoQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-29T18:40:50.000Z",
+    "title": "Giải Ảo Thời Sự 190529 - Phần 1: Thương tiếc Giáo sư Nguyễn Quảng Tuân",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "zU1vIx_FP9U"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-28T22:05:06.000Z",
+    "title": "Giải Ảo Thời Sự 190528 - Phần 2: Trận chiến âm thầm, mà quyết liệt",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "kGSPsrJ-L1E"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-28T18:28:30.000Z",
+    "title": "Giải Ảo Thời Sự 190528 - Phần 1: Chiến sĩ Trận vong",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "N6EZ4sIZPcE"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-28T00:41:01.000Z",
+    "title": "Giải Ảo Thời Sự 190527 - Phần 2:  Khi người nông dân cầm bút và... xây cầu!",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "8tODGbF5Cvo"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-27T17:56:08.000Z",
+    "title": "Giải Ảo Thời Sự 190527 - Phần 1: Chiết chiêu thương chiến Mỹ-Hoa",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "1An9eZMPAgw"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-23T21:03:01.000Z",
+    "title": "Giải Ảo Thời Sự 190523 - Phần 2:  Giải phẫu huyền thoại Đái Lộ của Bắc Kinh!",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "PxQ_7lDwOSc"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-23T19:02:37.000Z",
+    "title": "Giải Ảo Thời Sự 190523 - Phần 1:  Hóa chất CFC của Trung Cộng đang hủy tầng ozone của địa cầu",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "KSYs6449gxI"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-22T21:21:28.000Z",
+    "title": "Giải Ảo Thời Sự 190522 - Phần 2:  Hong Kong hết là Cảng Thơm!",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "pt6U3ZSUUPc"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-22T20:34:59.000Z",
+    "title": "Giải Ảo Thời Sự 190522 - Phần 1: Một trận tuyến Mỹ-Hoa khác - đất hiếm",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "nHVlfAKDB-w"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-22T05:50:46.000Z",
+    "title": "Giải Ảo Thời Sự 190521 - Phần 2: Dòng nước khí từ miền Bắc vào Tây Âu!",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "raONpV6et6g"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-21T23:59:02.000Z",
+    "title": "Giải Ảo Thời Sự 190521 - Phần 1:  Khi bọn &quot;Mán Đột&quot; nổi điên!",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "3qN3KQ28SxM"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-20T20:33:26.000Z",
+    "title": "Giải Ảo Thời Sự 190520 - Phần 2: Thương chiến Mỹ-Hoa dưới con mắt chột của truyền thông Mỹ",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "fegvH0Salfs"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-20T18:26:39.000Z",
+    "title": "Giải Ảo Thời Sự 190520 - Phần 1: Sấm sét ở &quot;Miệt Dưới&quot; - bầu cử tại Úc",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "x1j8hQtAI_g"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-16T19:12:15.000Z",
+    "title": "Giải Ảo Thời Sự 190516 - Phần 2: Chiến tranh Mỹ-Hoa có thể bùng nổ?",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "nAj7BiGXZ5g"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-16T18:28:46.000Z",
+    "title": "Giải Ảo Thời Sự 190516 - Phần 1:  Thủ thuật đàm phán của Bắc Kinh",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "UbV7d1qjt9I"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-15T18:55:07.000Z",
+    "title": "Giải Ảo Thời Sự 190515 - Phần 2:  Hoa Kỷ có thể sẽ hạ lãi suất",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "TAMTZafogDc"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-15T18:06:05.000Z",
+    "title": "Giải Ảo Thời Sự 190515 - Phần 1: Kinh tế Trung Cộng hụt hơi giữa dòng",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "II8HI6cgyoI"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-15T01:50:09.000Z",
+    "title": "Giải Ảo Thời Sự 190514 - Phần 2: Thà thương chiến còn hơn tử chiến!",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "kad9AqrMKGw"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-14T23:50:48.000Z",
+    "title": "Giải Ảo Thời Sự 190514 - Phần 1:  Thuật quỷ biển của Trung Hoa",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "3fs4joAW5h0"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-13T22:39:54.000Z",
+    "title": "Giải Ảo Thời Sự 190513 - Phần 2: Nhật Bản tại Đông Á giữa Mỹ và Tầu....",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "MONCrqVreQY"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-13T21:42:09.000Z",
+    "title": "Giải Ảo Thời Sự 190513 - Phần 1: Công chúa Mỹ đứt tay!",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "B9Vkg3DqjE4"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-09T16:59:33.000Z",
+    "title": "Giải Ảo Thời Sự 190509 - Phần 2:  Chuỗi cung ứng Mỹ-Hoa sẽ ra sao?",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "shpdXgrpswc"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-09T16:19:11.000Z",
+    "title": "Giải Ảo Thời Sự 190509 - Phần 1: Vì sao Bắc Kinh giở chứng?",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "A7YJo6TLBMg"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-08T18:36:48.000Z",
+    "title": "Giải Ảo Thời Sự 190508 - Phần 2: Iran lại dọa nạt bằng tối hậu thư",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "0g9xp_xjxw4"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-08T17:43:19.000Z",
+    "title": "Giải Ảo Thời Sự 190508 - Phần 1: Mánh khóe Bắc Kinh!",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "wXayoWxdqbY"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-07T23:59:57.000Z",
+    "title": "Giải Ảo Thời Sự 190507 - Phần 2:  Hoa Kỳ dàn trận đối phó với Iran",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "QFfvGfJPvvE"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-07T22:09:10.000Z",
+    "title": "Giải Ảo Thời Sự 190507 - Phần 1:  Nước Úc dưới bóng rợp Trung Cộng",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "iUFd1adYc6E"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T21:24:46.000Z",
+    "title": "Giải Ảo Thời Sự 190506 - Phần 2: Khói lửa Trung Đông",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "eiPJ__7IuM0"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-06T20:25:40.000Z",
+    "title": "Giải Ảo Thời Sự 190506 - Phần 1: Thương chiến gay go, Tập Cận Bình đâm lo!",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "K_dvyTF2BT4"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-02T21:38:14.000Z",
+    "title": "Giải Ảo Thời Sự 190502 - Phần 2: Nông nghiệp trong thương chiến",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "ZOT4HJ_eBes"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-02T21:02:56.000Z",
+    "title": "Giải Ảo Thời Sự 190502 - Phần 1: Indonesia vào vòng tay Bắc Kinh",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "jNwAXsLkJNM"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-02T00:52:42.000Z",
+    "title": "Giải Ảo Thời Sự 190501 - Phần 2: Khi lãnh tụ khủng bố tái xuất hiện...",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "h5XUENS0B-Y"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-01T23:49:00.000Z",
+    "title": "Giải Ảo Thời Sự 190501 - Phần 1: Venezuela rên la",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "seKbc9yW1IU"
+   },
+   "snippet": {
+    "publishedAt": "2019-05-01T18:13:36.000Z",
+    "title": "Giải Ảo Thời Sự 190501 - Phần 1: Venezuela còn gian nan",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "2mxHvWA6iDQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-30T20:52:12.000Z",
+    "title": "Giải Ảo Thời Sự 190430 - Phần  2: Nhật hoàng Thoái vị, Nhật hoàng lên",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "XmF8DolWmtE"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-30T20:02:09.000Z",
+    "title": "Giải Ảo Thời Sự 190430 - Phần 1: Khởi nghĩa tại Venezuela",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "4VXsGlCIExw"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-29T17:26:27.000Z",
+    "title": "Giải Ảo Thời Sự 190429 - Phần 2:  Các đại gia truyền thông Mỹ thoái trào",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "EC-HOIqNZPg"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-29T16:17:44.000Z",
+    "title": "Giải Ảo Thời Sự 190429 - Phần 1:  Vì sao sức mạnh quân sự của Nga lại suy sụp?",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "jWYdx8LsAXg"
+   },
+   "snippet": {
+    "publishedAt": "2019-04-25T19:38:01.000Z",
+    "title": "Giải Ảo Thời Sự 190425 - Phần 2:  Bi Đen vẫn... Đen",
+    "description": ""
+   }
+  }
+ ]
+}
