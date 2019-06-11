@@ -2,6 +2,26 @@
  "items": [
   {
    "id": {
+    "videoId": "bdCXt_0dGfU"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-06T16:54:29.000Z",
+    "title": "Kim Nhung Show | Thời Mao Trạch Đông, giết người là 1 đòi hỏi của cách mạng| 06/06/2019",
+    "description": "Kim Nhung Show | Dưới thời Mao Trạch Đông, giết người là 1 đòi hỏi của cách mạng văn hoá | 06/06/2019 Quý vị hãy ủng hộ SBTN bằng cách liên lạc với..."
+   }
+  },
+  {
+   "id": {
+    "videoId": "Ptxwgzo0IeY"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-05T17:44:10.000Z",
+    "title": "Kim Nhung Show | Y sĩ tiền tuyến Nghiêm Sỹ Tuấn - Người Đi Tìm Mùa Xuân",
+    "description": "Quý vị hãy ủng hộ SBTN bằng cách liên lạc với các hãng Cable địa phương hoặc Directv ở số 1 866 687 7109 để bắt đài SBTN hoặc ghi danh trên ..."
+   }
+  },
+  {
+   "id": {
     "videoId": "uXFdnLIpPAM"
    },
    "snippet": {
@@ -128,26 +148,6 @@
     "publishedAt": "2013-06-26T04:19:17.000Z",
     "title": "THE KIM NHUNG SHOW: Nền kinh tế Trung Quốc được dự đoán sẽ vượt mặt Hoa Kỳ vào năm 2016",
     "description": "Đa số dư luận dự đoán rằng nền kinh tế Trung Quốc sẽ qua mặt nền kinh tế Hoa Kỳ vào năm 2016. Tuy nhiên, đây vẫn chỉ là dự đoán? Liệu sự vượt..."
-   }
-  },
-  {
-   "id": {
-    "videoId": "bdCXt_0dGfU"
-   },
-   "snippet": {
-    "publishedAt": "2019-06-06T16:54:29.000Z",
-    "title": "Kim Nhung Show | Thời Mao Trạch Đông, giết người là 1 đòi hỏi của cách mạng| 06/06/2019",
-    "description": "Kim Nhung Show | Dưới thời Mao Trạch Đông, giết người là 1 đòi hỏi của cách mạng văn hoá | 06/06/2019 Quý vị hãy ủng hộ SBTN bằng cách liên lạc với..."
-   }
-  },
-  {
-   "id": {
-    "videoId": "Ptxwgzo0IeY"
-   },
-   "snippet": {
-    "publishedAt": "2019-06-05T17:44:10.000Z",
-    "title": "Kim Nhung Show | Y sĩ tiền tuyến Nghiêm Sỹ Tuấn - Người Đi Tìm Mùa Xuân",
-    "description": "Quý vị hãy ủng hộ SBTN bằng cách liên lạc với các hãng Cable địa phương hoặc Directv ở số 1 866 687 7109 để bắt đài SBTN hoặc ghi danh trên ..."
    }
   },
   {

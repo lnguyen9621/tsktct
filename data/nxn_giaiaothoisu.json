@@ -2,6 +2,26 @@
  "items": [
   {
    "id": {
+    "videoId": "GMiyeMdn3nQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-10T17:43:24.000Z",
+    "title": "Giải Ảo Thời Sự 190610 - Phần 2: Thực chất của Trung Cộng",
+    "description": ""
+   }
+  },
+  {
+   "id": {
+    "videoId": "CMsBa-rDDlQ"
+   },
+   "snippet": {
+    "publishedAt": "2019-06-10T17:03:15.000Z",
+    "title": "Giải Ảo Thời Sự 190610 - Phần 1:  Dân Hong Kong giận dữ vì Bắc Kinh",
+    "description": ""
+   }
+  },
+  {
+   "id": {
     "videoId": "N1Y8hUI9LCA"
    },
    "snippet": {
@@ -252,16 +272,6 @@
   },
   {
    "id": {
-    "videoId": "nAj7BiGXZ5g"
-   },
-   "snippet": {
-    "publishedAt": "2019-05-16T18:28:46.000Z",
-    "title": "Giải Ảo Thời Sự 190516 - Phần 1:  Thủ thuật đàm phán của Bắc Kinh",
-    "description": ""
-   }
-  },
-  {
-   "id": {
     "videoId": "UbV7d1qjt9I"
    },
    "snippet": {
@@ -487,16 +497,6 @@
    "snippet": {
     "publishedAt": "2019-04-29T16:17:44.000Z",
     "title": "Giải Ảo Thời Sự 190429 - Phần 1:  Vì sao sức mạnh quân sự của Nga lại suy sụp?",
-    "description": ""
-   }
-  },
-  {
-   "id": {
-    "videoId": "jWYdx8LsAXg"
-   },
-   "snippet": {
-    "publishedAt": "2019-04-25T19:38:01.000Z",
-    "title": "Giải Ảo Thời Sự 190425 - Phần 2:  Bi Đen vẫn... Đen",
     "description": ""
    }
   }
