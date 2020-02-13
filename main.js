@@ -63,9 +63,6 @@ function loadVideos(jsonFilePath){
                                 <h4 class="card-title">${videosData.items[i].snippet.title}</h4>
                                 <p class="card-text">Published On: ${videosData.items[i].snippet.publishedAt}</p>
                             </div>
-                            <div class="card-footer">
-                            <a href="#" class="btn btn-primary">Find Out More!</a>
-                            </div>
                             </div>
                        </div>`
         }
